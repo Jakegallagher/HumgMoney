@@ -7,7 +7,6 @@ public class UpdateSprite : MonoBehaviour
     public Sprite cardFace;
     public Sprite cardBack;
     private SpriteRenderer spriteRenderer;
-    private RoundSection roundSection;
     private PokerScript pokerScript;
 
 

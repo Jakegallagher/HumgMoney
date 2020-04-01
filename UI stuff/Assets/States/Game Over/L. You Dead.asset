@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad05a24405e7aae4dacdffdbb228166f, type: 3}
+  m_Name: L. You Dead
+  m_EditorClassIdentifier: 
+  storyText: 'You get stabbed in face.
+
+    
+
+    
+
+    
+
+    And die.
+
+
+
+    1.
+    Start again'
+  nextStates:
+  - {fileID: 11400000, guid: 6c2b9ebc75755f64591c51beb93cc80a, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad05a24405e7aae4dacdffdbb228166f, type: 3}
+  m_Name: A1. Game Start
+  m_EditorClassIdentifier: 
+  storyText: 'People running at you with a knife
+
+    
+
+    1. Say hello
+
+    
+
+    2.
+    Run away'
+  nextStates:
+  - {fileID: 11400000, guid: 78b6a2b484733b747a67121a69c8866e, type: 2}
+  - {fileID: 11400000, guid: e5072740bc916a04d9d0705c03d86b9b, type: 2}
